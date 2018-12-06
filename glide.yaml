@@ -1,0 +1,5 @@
+import:
+- package: github.com/hashicorp/go-immutable-radix
+  version: aca1bd0689e10884f20d114aff148ddb849ece80
+package: github.com/hashicorp/go-memdb
+
